@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "IronCore Fitness Center",
+    "membership": "Monthly",
+    "price_usd": 40,
+    "features": [
+      "24/7 access",
+      "Personal trainer support",
+      "Cardio & strength equipment",
+      "Locker & shower facility"
+    ],
+    "description": "IronCore Fitness Center offers state-of-the-art equipment, experienced trainers, and a motivating environment for achieving your fitness goals."
+  },
+  {
+    "id": 2,
+    "name": "FlexZone Gym & Wellness",
+    "membership": "Quarterly",
+    "price_usd": 100,
+    "features": [
+      "Group yoga & Zumba classes",
+      "Sauna and steam room",
+      "Diet consultation",
+      "Free parking"
+    ],
+    "description": "FlexZone Gym provides a complete wellness experience with group fitness programs, modern machines, and holistic lifestyle support."
+  },
+  {
+    "id": 3,
+    "name": "Elite Strength Club",
+    "membership": "Yearly",
+    "price_usd": 350,
+    "features": [
+      "Unlimited gym access",
+      "Advanced training programs",
+      "Nutrition & supplement guidance",
+      "VIP lounge and recovery zone"
+    ],
+    "description": "Elite Strength Club is built for serious athletes and fitness enthusiasts, offering premium facilities and customized coaching plans."
+  }
+]
